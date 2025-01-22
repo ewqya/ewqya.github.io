@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Building a Personal Website</title>
+      <link href="/2025/01/23/fifth/"/>
+      <url>/2025/01/23/fifth/</url>
+      
+        <content type="html"><![CDATA[<h2 id="How-I-Built-My-Personal-Website-with-Hexo"><a href="#How-I-Built-My-Personal-Website-with-Hexo" class="headerlink" title="How I Built My Personal Website with Hexo"></a>How I Built My Personal Website with Hexo</h2><p>Building a personal website is a great way to showcase your projects and share your thoughts. Here’s how I built mine using Hexo.</p><h3 id="Steps"><a href="#Steps" class="headerlink" title="Steps:"></a>Steps:</h3><ol><li>Install Hexo and set up the environment.</li><li>Choose a theme (I chose <strong>Butterfly</strong> for its customization options).</li><li>Customize the layout and deploy to GitHub Pages.</li></ol><p>```bash</p><h1 id="Deploy-the-website-to-GitHub-Pages"><a href="#Deploy-the-website-to-GitHub-Pages" class="headerlink" title="Deploy the website to GitHub Pages"></a>Deploy the website to GitHub Pages</h1><p>hexo clean<br>hexo generate<br>hexo deploy</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Development </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Tech </tag>
+            
+            <tag> Blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Travel Log</title>
+      <link href="/2025/01/22/forth/"/>
+      <url>/2025/01/22/forth/</url>
+      
+        <content type="html"><![CDATA[<h2 id="My-Recent-Journey-to-Kyoto"><a href="#My-Recent-Journey-to-Kyoto" class="headerlink" title="My Recent Journey to Kyoto"></a>My Recent Journey to Kyoto</h2><p>Traveling is my way of refreshing my mind. Recently, I visited Kyoto, Japan, and it was an unforgettable experience.</p><h3 id="Highlights-of-the-Trip"><a href="#Highlights-of-the-Trip" class="headerlink" title="Highlights of the Trip:"></a>Highlights of the Trip:</h3><ul><li>Exploring the historic <strong>Fushimi Inari Taisha</strong>.</li><li>Tasting authentic Kyoto-style sushi.</li><li>Enjoying the serene beauty of <strong>Arashiyama Bamboo Grove</strong>.</li></ul><p>```bash</p><h1 id="Packing-tips-for-a-light-trip"><a href="#Packing-tips-for-a-light-trip" class="headerlink" title="Packing tips for a light trip:"></a>Packing tips for a light trip:</h1><ol><li>List essential items.</li><li>Pack clothes that can mix and match.</li><li>Keep electronics and documents organized.</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Personal </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Blog </tag>
+            
+            <tag> Travel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Study Plan</title>
+      <link href="/2025/01/21/third/"/>
+      <url>/2025/01/21/third/</url>
+      
+        <content type="html"><![CDATA[<h2 id="My-Study-Plan-for-2025"><a href="#My-Study-Plan-for-2025" class="headerlink" title="My Study Plan for 2025"></a>My Study Plan for 2025</h2><p>This year, I am focusing on improving my programming skills and gaining deeper knowledge in data science. Here’s a breakdown of my study plan:</p><h3 id="Key-Focus-Areas"><a href="#Key-Focus-Areas" class="headerlink" title="Key Focus Areas:"></a>Key Focus Areas:</h3><ul><li><strong>Programming Languages</strong>: Learn Python, JavaScript, and Rust.</li><li><strong>Data Science</strong>: Deep dive into machine learning and AI with hands-on projects.</li><li><strong>Soft Skills</strong>: Develop better communication and problem-solving skills.</li></ul><p>```bash</p><h1 id="Example-Setting-up-a-Python-virtual-environment"><a href="#Example-Setting-up-a-Python-virtual-environment" class="headerlink" title="Example: Setting up a Python virtual environment"></a>Example: Setting up a Python virtual environment</h1><p>python3 -m venv myenv<br>source myenv/bin/activate</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Education </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Study </tag>
+            
+            <tag> Personal </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>two</title>
+      <link href="/2025/01/20/second/"/>
+      <url>/2025/01/20/second/</url>
+      
+        <content type="html"><![CDATA[<h2 id="My-first-article"><a href="#My-first-article" class="headerlink" title="My first article"></a>My first article</h2><p>This is the content of my first article on Hexo. I’m excited to start blogging with Hexo. It’s a simple and powerful static site generator.</p><h3 id="Hexo-Installation"><a href="#Hexo-Installation" class="headerlink" title="Hexo Installation"></a>Hexo Installation</h3><p>To install Hexo, you need to run the following command:</p><p>```bash<br>npm install hexo-cli -g</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Personal </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>one</title>
+      <link href="/2025/01/20/first/"/>
+      <url>/2025/01/20/first/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Welcome-to-My-Blog"><a href="#Welcome-to-My-Blog" class="headerlink" title="Welcome to My Blog!"></a>Welcome to My Blog!</h1><p>This is my first post using <strong>Hexo</strong>. I am excited to start sharing my thoughts and ideas on this platform.</p><h2 id="Why-Hexo"><a href="#Why-Hexo" class="headerlink" title="Why Hexo?"></a>Why Hexo?</h2><p>Hexo is a fast and simple static site generator, built with Node.js. It’s easy to use and has great support for custom themes and plugins. Whether you want to create a personal blog or a professional portfolio, Hexo makes it easy to get started.</p><h3 id="Features-of-Hexo"><a href="#Features-of-Hexo" class="headerlink" title="Features of Hexo:"></a>Features of Hexo:</h3><ul><li>Fast site generation</li><li>Supports themes and plugins</li><li>Easy to deploy to platforms like <strong>GitHub Pages</strong></li></ul><h2 id="Let’s-Get-Started"><a href="#Let’s-Get-Started" class="headerlink" title="Let’s Get Started"></a>Let’s Get Started</h2><p>To get started with Hexo, you only need to follow a few simple steps:</p><ol><li>Install Node.js and npm</li><li>Install Hexo using npm</li><li>Initialize your Hexo site with <code>hexo init</code></li><li>Start the Hexo server with <code>hexo server</code></li><li>Customize and start blogging!</li></ol><p>Feel free to modify the content of this blog to suit your needs. Enjoy blogging with Hexo!</p><hr><p>Thank you for reading my first post. Stay tuned for more!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Personal </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
