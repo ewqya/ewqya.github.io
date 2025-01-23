@@ -48,9 +48,9 @@
 #nav .menus_items .menus_item:hover .menus_item_child {
   display: flex !important;
 }
-/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
+/* 这里的5是代表导航栏的第5个元素，即有子菜单的元素，可以按自己需求修改 */
 .menus_items .menus_item:nth-child(5) .menus_item_child {
-  left: -72px;
+  left: -52px;
 }
 
 
@@ -354,4 +354,15 @@ div#archive {
 [data-theme="dark"] .read-mode div#post {
   background: rgba(25, 25, 25, 0.9) !important;
   color: #ffffff;
+}
+
+
+/* 自定义音乐按钮的样式 */
+.navbar .fa-music {
+  font-size: 18px;
+  color: #fff;
+}
+
+.navbar .fa-music:hover {
+  color: #e3f2f5;
 }
